@@ -1,0 +1,105 @@
+{
+  "personal": {
+    "full_name": "Muhammed Musthafa K",
+    "location": "Al Wakrah, Qatar",
+    "nationality": "Indian",
+    "email": "",
+    "phone": "",
+    "linkedin": "",
+    "qatar_driving_license": true,
+    "languages": ["English (Fluent)", "Arabic (Basic)", "Malayalam (Native)", "Hindi (Fluent)"],
+    "education": "B.Tech \u2014 Electrical & Electronics Engineering (2017)",
+    "current_salary_qar": 4000
+  },
+  "experience": [
+    {
+      "role": "Substation Technical Assistant",
+      "company": "KEIC (for KAHRAMAA)",
+      "location": "Al Wakrah, Qatar",
+      "from": "2023-02",
+      "to": "Present",
+      "years": 2.3,
+      "voltage": "11 kV to 220 kV GIS/AIS",
+      "type": "current",
+      "highlights": [
+        "Operate and maintain 11 kV to 220 kV GIS and AIS substations on KAHRAMAA network",
+        "Hold KAHRAMAA LOA \u2014 authorized for HV switching under PTW",
+        "Preventive maintenance of power transformers (incl. OLTC), SF6 circuit breakers, isolators, CTs/VTs",
+        "SCADA monitoring, alarm response, fault isolation and restoration",
+        "Support testing & commissioning of new bays and equipment extensions"
+      ]
+    },
+    {
+      "role": "Substation Engineer (O&M)",
+      "company": "Kerala State Electricity Board (KSEB)",
+      "location": "Mannarkkad, Kerala, India",
+      "from": "2018-12",
+      "to": "2023-02",
+      "years": 4.25,
+      "voltage": "110 kV",
+      "type": "primary",
+      "highlights": [
+        "Independently managed O&M of 110 kV substation",
+        "Switching operations, transformer monitoring, breakdown response",
+        "Coordinated with Load Despatch Centre for switching and load management",
+        "Investigated tripping events and submitted root-cause reports"
+      ]
+    },
+    {
+      "role": "Graduate Engineer Trainee (Protection & Relay)",
+      "company": "KSEB Relay Subdivision",
+      "location": "Palakkad, Kerala, India",
+      "from": "2023-06",
+      "to": "2023-12",
+      "years": 0.5,
+      "voltage": "110 kV / 220 kV",
+      "type": "trainee",
+      "highlights": [
+        "Hands-on training in numerical relay configuration, testing, coordination",
+        "Secondary injection testing of overcurrent, differential, distance relays",
+        "Studied protection philosophy of KSEB transmission network"
+      ]
+    }
+  ],
+  "skills": {
+    "voltage_levels": ["11 kV", "33 kV", "66 kV", "110 kV", "132 kV", "220 kV"],
+    "substation_types": ["GIS", "AIS", "Indoor", "Outdoor"],
+    "equipment": [
+      "Power Transformers (incl. OLTC)",
+      "SF6 / Vacuum / Oil Circuit Breakers",
+      "Disconnect Switches / Isolators",
+      "Current Transformers (CT) & Voltage Transformers (VT)",
+      "Protection Relays (overcurrent, differential, distance)",
+      "Control & Relay (C&R) Panels",
+      "Busbars, Cable Terminations",
+      "Earth Fault Systems",
+      "Capacitor Banks"
+    ],
+    "operations": [
+      "HV/EHV Switching Operations",
+      "Permit to Work (PTW)",
+      "SCADA Monitoring & Reporting",
+      "Substation Commissioning support",
+      "Preventive & Corrective Maintenance",
+      "Fault Identification & Isolation",
+      "Load Monitoring & Reporting"
+    ],
+    "software": ["AutoCAD (2D Electrical)", "Revit MEP", "SCADA Systems", "MS Office Suite"],
+    "certifications": [
+      "Revit MEP + AutoCAD (Aug 2017)",
+      "KAHRAMAA Substation Operations Training",
+      "LOA \u2014 Authorized for HV Switching Operations"
+    ]
+  },
+  "total_experience_years": 7,
+  "honesty_rules": {
+    "max_years_claim": 7,
+    "current_title_locked": "Substation Technical Assistant",
+    "never_claim": [
+      "Senior Engineer (not held)",
+      "Direct KAHRAMAA employee (via KEIC)",
+      "P.Eng / PE / CEng (not registered)",
+      "Design experience not actually held"
+    ]
+  }
+}

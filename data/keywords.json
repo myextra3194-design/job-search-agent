@@ -1,0 +1,47 @@
+{
+  "primary_titles": [
+    "Substation Engineer",
+    "Substation O&M Engineer",
+    "Electrical Operation & Maintenance Engineer",
+    "HV Substation Engineer",
+    "EHV Substation Engineer",
+    "Substation Technical Assistant",
+    "Protection & Relay Engineer",
+    "Switching Engineer",
+    "Electrical Maintenance Engineer",
+    "GIS Substation Engineer",
+    "Commissioning Engineer Electrical",
+    "Power Systems Engineer",
+    "Control & Instrumentation Engineer"
+  ],
+  "secondary_titles": [
+    "SCADA Engineer",
+    "Electrical Design Engineer Substation",
+    "Field Service Engineer HV",
+    "Technical Inspector Electrical",
+    "Electrical Supervisor Substation"
+  ],
+  "target_employers": {
+    "Qatar": ["KAHRAMAA", "QatarEnergy", "Lusail City", "Ashghal", "PWA"],
+    "UAE": ["DEWA", "TRANSCO", "ADDC", "AADC", "ENEC", "Masdar", "TAQA"],
+    "Saudi Arabia": ["SEC", "NEOM", "Saudi Aramco", "SABIC", "Red Sea Global", "ACWA Power"],
+    "Oman": ["OETC", "Mazoon", "PAEW", "Majan", "MEDC"],
+    "India": ["PGCIL", "NTPC", "KSEB", "Adani Power", "Tata Power"]
+  },
+  "contractors_oems": [
+    "Siemens Energy", "ABB", "Hitachi Energy", "GE Vernova",
+    "Schneider Electric", "L&T", "SEPCO III", "KEIC", "Samsung C&T",
+    "Hyundai E&C", "Alfanar", "Al Jaber Group", "Dar Al Handasah",
+    "WorleyParsons", "Jacobs Engineering", "Black & Veatch",
+    "Petrofac", "Alstom", "CCC", "STRABAG Energy"
+  ],
+  "voltage_keywords": ["11kV", "33kV", "66kV", "110kV", "132kV", "220kV", "HV", "EHV"],
+  "skill_keywords": [
+    "GIS", "AIS", "Power Transformer", "OLTC", "Circuit Breaker", "SF6",
+    "Protection Relay", "Differential", "Distance Relay", "SCADA",
+    "Switching", "PTW", "Commissioning", "C&R Panel", "Busbar",
+    "CT", "VT", "IEC 61850", "Numerical Relay"
+  ],
+  "exp_brackets_safe": ["5-7 years", "5-8 years", "5-10 years"],
+  "exp_brackets_avoid": ["8-10 years", "10+ years", "10-15 years"]
+}
